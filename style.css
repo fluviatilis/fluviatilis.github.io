@@ -1,0 +1,87 @@
+html {
+
+	font-size: 62.5%;
+
+}
+
+body{
+	height: auto;
+	/*background-image: url("../img/nuage.jpg");*/
+	/*background: linear-gradient(90deg, #FAF3F3, #D8D6D6);*/
+	background-color: #e4e1e8;
+background-image: url("../img/clouds1.jpg");
+
+}
+
+/*------------------------- header et ses composants.......*/
+.navbar-header {
+	background-color: ;
+}
+
+.navbar-right {
+
+	margin-right: 1.5rem;
+}
+
+.titre {
+
+	text-align: center;
+	font-size: 6em !important;
+	font-weight: bold;
+	font-family: 'Gloria Hallelujah', cursive;
+	color: #000;
+}
+
+header {
+
+	margin-bottom: 1em;
+}
+
+.carousel-inner >.item >img {
+
+	width: auto;
+	height: 25em;
+	overflow: hidden;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+/*-------------------fin du header, début du corps principal----------------*/
+
+
+
+
+
+aside img {
+
+margin : 1em 1em 1em auto;
+}
+
+
+.colonne2 {
+
+	padding-top: 0em;
+	padding-left: 1em;
+}
+
+h2 {
+	text-align: center;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+
+.cadrearticle {
+	
+	border: 1px solid #C7E4F9;
+	margin-top: 1em;
+	padding-left: 0;
+}
+
+article > p {
+
+	
+	columns: 2;
+	text-align: justify;
+	
+}
